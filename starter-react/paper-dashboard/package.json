@@ -9,7 +9,7 @@
     "chart.js": "2.7.2",
     "ftp-deploy": "^2.3.3",
     "history": "4.7.2",
-    "node-sass": "4.9.3",
+    "node-sass": "9.0.0",
     "perfect-scrollbar": "1.4.0",
     "react": "16.5.2",
     "react-chartjs-2": "2.7.4",
@@ -17,7 +17,7 @@
     "react-google-maps": "9.4.5",
     "react-notification-alert": "0.0.8",
     "react-router-dom": "4.3.1",
-    "react-scripts": "2.0.4",
+    "react-scripts": "5.0.1",
     "reactstrap": "6.5.0"
   },
   "scripts": {
@@ -46,6 +46,6 @@
     "ajv": "6.0.0",
     "@types/googlemaps": "3.30.13",
     "@types/markerclustererplus": "2.1.33",
-    "jquery": "3.3.1"
+    "jquery": "3.5.0"
   }
 }
